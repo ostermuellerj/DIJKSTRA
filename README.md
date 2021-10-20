@@ -5,10 +5,10 @@ Pathfinding challenge: cities are placed in the lowest cost location on the map 
 Location of cities are shown in cities.png, while the costs for the selected city are shown in costs.png
 
 ## Final paths:
-![Paths](solvedMASTER.png)
+![Paths](images/solvedMASTER.png)
 
 ## Location of cities:
-![cities](cities.png)
+![cities](images/cities.png)
 
 ## Path cost-map calculated from selected city:
-![costs](costs.png)
+![costs](images/costs.png)
