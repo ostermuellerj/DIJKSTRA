@@ -10,5 +10,5 @@ Location of cities are shown in cities.png, while the costs for the selected cit
 ## Location of cities:
 ![cities](cities.png)
 
-## Path cost map calculated from selected city:
+## Path cost-map calculated from selected city:
 ![costs](costs.png)
